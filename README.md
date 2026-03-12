@@ -3,8 +3,8 @@
 # 🎙️ Audio Quality Booster
 ### *Professional Background Noise Removal Powered by SoX*
 
-[![Made by Hari](https://img.shields.io/badge/Made%20by-Hari-blue?style=for-the-badge)](https://wa.me/94768855659)
-[![Developed by Hari](https://img.shields.io/badge/Developed%20by-Hari-purple?style=for-the-badge)](https://wa.me/94768855659)
+[![Made by Lakshan](https://img.shields.io/badge/Made%20by-Lakshan-blue?style=for-the-badge)](https://github.com/lakshan-bandara)
+[![Developed by Lakshan](https://img.shields.io/badge/Developed%20by-Lakshan-purple?style=for-the-badge)](https://github.com/lakshan-bandara)
 [![Google Colab](https://img.shields.io/badge/Open%20In-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![SoX](https://img.shields.io/badge/Tool-SoX-00AA44?style=for-the-badge)](http://sox.sourceforge.net)
@@ -22,7 +22,7 @@
 ## 🖼️ Preview
 
 <div align="center">
-  <img src="preview.png" alt="Audio Quality Booster Preview" width="100%" />
+  <img src="assets/preview.png" alt="Audio Quality Booster Preview" width="100%" />
 </div>
 
 ---
@@ -45,11 +45,13 @@
 
 > No installation required! Runs entirely in your browser via Google Colab.
 
-1. **Click the button below to open in Colab:**
+1. **Click the button below to open in Google Colab:**
 
 <div align="center">
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+<a href="https://colab.research.google.com/github/lakshan-bandara/audio-quality-booster-sox/blob/main/Audio_Quality_Booster.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" height="40" alt="Open In Colab"/>
+</a>
 
 </div>
 
@@ -99,7 +101,8 @@ sox input.wav output.wav noisered noise.prof 0.21 norm -3
 audio-quality-booster-sox/
 │
 ├── 📓 Audio_Quality_Booster.ipynb   # Main Colab Notebook
-├── 🖼️ preview.png                   # Project preview image
+├── assets/                          # Folder for project assets
+│   └── preview.png                   # Project preview image
 ├── 📄 README.md                     # This file
 └── 📋 LICENSE                       # MIT License
 ```
@@ -174,19 +177,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-## 👨‍💻 About the Developer
-
-| | |
-|--|--|
-| 🎯 **Made by** | Hari |
-| 💻 **Developed by** | Hari |
-| 📱 **Contact (Lakshan)** | [![WhatsApp](https://img.shields.io/badge/Chat-WhatsApp-25D366?style=flat-square&logo=whatsapp)](https://wa.me/94768855659) |
-| 🔗 **WhatsApp** | [+94 76 885 5659](https://wa.me/94768855659) |
-
----
-
 *If this project helped you, consider giving it a* ⭐ *— it means a lot!*
 
-**Made with ❤️ by Hari** | **Developed with passion by Hari**
+**Made by Lakshan**
 
 </div>
