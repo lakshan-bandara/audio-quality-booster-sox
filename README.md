@@ -5,7 +5,7 @@
 
 [![Made by Lakshan](https://img.shields.io/badge/Made%20by-Lakshan-blue?style=for-the-badge)](https://github.com/lakshan-bandara)
 [![Developed by Lakshan](https://img.shields.io/badge/Developed%20by-Lakshan-purple?style=for-the-badge)](https://github.com/lakshan-bandara)
-[![Google Colab](https://img.shields.io/badge/Open%20In-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
+[![Google Colab](https://img.shields.io/badge/Open%20In-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/lakshan-bandara/audio-quality-booster-sox/blob/main/Audio_Quality_Booster.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![SoX](https://img.shields.io/badge/Tool-SoX-00AA44?style=for-the-badge)](http://sox.sourceforge.net)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
@@ -22,7 +22,7 @@
 ## 🖼️ Preview
 
 <div align="center">
-  <img src="assets/preview.png" alt="Audio Quality Booster Preview" width="100%" />
+  <img src="assets/view.png" alt="Audio Quality Booster Preview" width="100%" />
 </div>
 
 ---
@@ -102,7 +102,7 @@ audio-quality-booster-sox/
 │
 ├── 📓 Audio_Quality_Booster.ipynb   # Main Colab Notebook
 ├── assets/                          # Folder for project assets
-│   └── preview.png                   # Project preview image
+│   └── view.png                      # Project preview image
 ├── 📄 README.md                     # This file
 └── 📋 LICENSE                       # MIT License
 ```
@@ -178,7 +178,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 <div align="center">
 
 *If this project helped you, consider giving it a* ⭐ *— it means a lot!*
-
-**Made by Lakshan**
 
 </div>
